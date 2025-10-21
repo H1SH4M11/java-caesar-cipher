@@ -21,7 +21,7 @@ A simple, console-based Java application that encrypts and decrypts messages usi
 
 
 
-1. **Clone the repository to your local machine:** git clone \[https://github.com/H1SH4M11/java-caesar-cipher.git](https://github.com/H1SH4M11/java-caesar-cipher.git)
+1. **Clone the repository to your local machine:** git clone https://github.com/H1SH4M11/java-caesar-cipher.git
 
 
 
